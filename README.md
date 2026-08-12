@@ -16,4 +16,4 @@
 
 ## Current Status
 
-Project definition and architecture planning.
+- Project definition and architecture planning.
