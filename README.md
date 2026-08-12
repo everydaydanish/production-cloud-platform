@@ -1,8 +1,7 @@
 # Production Cloud Platform
 
 ## Project Goal
-
-<2–4 sentences explaining what we're building and why>
+To Create a basic terraform managed AWS platform hosting a small containerised http application
 
 ## Initial Requirements
 
