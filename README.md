@@ -5,7 +5,7 @@
 
 ## Requirements
 - The application must be accessible from the public internet over HTTPS.
-- The application workload must run as a container.
+- The application workload must run as a container on AWS ECS.
 - Infrastructure must be provisioned and managed through Terraform.
 - The application compute should not be directly exposed to the public internet.
 - AWS permissions should follow least-privilege principles.
